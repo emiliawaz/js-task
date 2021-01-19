@@ -1,4 +1,4 @@
-# new-vue
+# js-task
 
 ## Project setup
 ```
